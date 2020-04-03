@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  width: 100%;
+  background-image: url(./img/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+   background-position: 0% 12%;
+
+}
+
+.nav{
+  margin: auto;
+  width: 20%;
+  height: 55vmin;
+  margin-top: 10%;
+  margin-left: auto;
+  background-color: #fff;
+  border-radius: 5px;
+  display: flex;
+  box-sizing: border-box;
+}
+.nav ul{
+  text-decoration: none;
+  list-style: none;
+
+}
+.nav ul li{
+  bor
+}
